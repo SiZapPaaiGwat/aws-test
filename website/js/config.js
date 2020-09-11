@@ -6,4 +6,5 @@ window._config = {
     },
     api: {
         invokeUrl: 'https://m5a6qjp0ze.execute-api.ap-northeast-2.amazonaws.com/prod'
+    }
 };
